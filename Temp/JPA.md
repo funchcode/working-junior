@@ -28,3 +28,5 @@ JPA는 Java Persistence API, 자바 영속성 API이다.
 
 상속객체를 select 시
 - 조인 후 결과 값을 가져온다.
+
+Commit
